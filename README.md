@@ -26,6 +26,10 @@ Multinomial Naive Bayes is a classification algorithm that is commonly used in s
 
 In MNB, the occurrence of each word in the document is counted separately for each class. This information is used to create a probability function, which is used to calculate the probability of a document belonging to a specific class. 
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Avinash24R)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/avinash-rout-58a26a28b?original_referer=https%3A%2F%2Fwww.google.com%2F)
+
 ### Bernoulli Naive Bayes
 
 Bernoulli Naive Bayes is a variation of the Naive Bayes classifier that is particularly suited for binary or boolean features. It models the presence or absence of a feature rather than its count, making it effective for tasks like text classification where features may signify the presence of particular words.
