@@ -35,5 +35,7 @@ Bernoulli Naive Bayes is a variation of the Naive Bayes classifier that is parti
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Avinash24R)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/avinash-rout-58a26a28b?original_referer=https%3A%2F%2Fwww.google.com%2F)
+<a href="https://instagram.com/_aviiii24_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://x.com/Avinash_Rou7" target="_blank"><img src="https://img.shields.io/badge/X-white?style=for-the-badge&logo=x&logoColor=black" /></a>
 
  
